@@ -14,7 +14,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | John Doe"
 PAGE_ICON = ":wave:"
-NAME = "John Doe"
+NAME = "OtgonJargal"
 DESCRIPTION = """
 Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
 """
